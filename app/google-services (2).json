@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479057913618",
+    "firebase_url": "https://finalyearproject-75e4d.firebaseio.com",
+    "project_id": "finalyearproject-75e4d",
+    "storage_bucket": "finalyearproject-75e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479057913618:android:a00a1b60826c9f862ab5cb",
+        "android_client_info": {
+          "package_name": "com.example.universitesdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479057913618-71or8phludcns9009a71gthf0p8s4ud3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTEv0n-ZD0ICwUNx6KQE3xik3gYXSML7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479057913618-71or8phludcns9009a71gthf0p8s4ud3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
